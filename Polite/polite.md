@@ -2,5 +2,5 @@
 --- 
 
 **Select your action**
-## [just nod and let them continue speaking](Polite/option1.md)
+## [Just nod and let them continue speaking](Polite/option1.md)
 ## [Raise your hand](Polite/option2.md)
