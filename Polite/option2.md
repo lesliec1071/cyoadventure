@@ -2,7 +2,7 @@
 --- 
 
 **Select your action**
-## [Put your hand down and let them continue to speech.](2http://www.hstat.org/2017/05/17/ap-course-fair/)
-## [Have your advisor choose your AP class, say thank you and leave.](http://www.hstat.org/2017/05/17/ap-course-fair/)
+## [Put your hand down and let them continue to speaking.](https://cdn.ceotodaymagazine.com/CEO-Today/wp-content/uploads/2019/05/How-To-Do-Public-Speaking-Properly.jpg)
+## [Ask for clarification, say thank you and leave.](https://www.incimages.com/uploaded_files/image/970x450/getty_469566889_105923.jpg)
 ---
 [Start Over](../home.md)
