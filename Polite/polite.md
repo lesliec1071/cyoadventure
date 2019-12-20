@@ -2,5 +2,5 @@
 --- 
 
 **Select your action**
-## [Just nod and let them continue speaking](option1.md)
-## [Raise your hand](option2.md)
+## [Just nod like you understand](option1.md)
+## [Express that you are confused/uncertain](option2.md)
