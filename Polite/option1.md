@@ -1,4 +1,5 @@
-## Just nod and let them continue speaking
+## Just nod like you understand
+
 --- 
 
 **Select your action**
